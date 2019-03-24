@@ -13,7 +13,7 @@ html {
 screen to avoid being eaten by the alligator. As the screen gets smaller then
 he will run on top of Mr. Alligator's back. */
 
-@media only screen and (max-width: ){
+@media only screen and (max-width: 1300px ){
 
   #ostrich{
     bottom: 100px;

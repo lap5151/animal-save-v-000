@@ -27,6 +27,6 @@ rotate [here](https://developer.mozilla.org/en-US/docs/Web/CSS/transform).*/
 
     #dolphin{
       top: -10px;
-      transform: rotate(0.25turn);
+      transform: rotate(0.75turn);
     }
 }
